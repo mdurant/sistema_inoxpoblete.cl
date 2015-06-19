@@ -1,0 +1,33 @@
+@Mauricio Duran Torres
+
+13/02/2014
+
+Se hacen cambios en las tablas de:
+
+efactura
+eboleta
+eguiadespacho
+efactura_compra
+inventario
+
+Agregando una columna al final llamada "estadocontable->varchar(45)" que manejar√° los estados de la contabilizaci√≥n de dicho documen, cuyo valor por defecto (default) es "pendiente"
+
+Ejemplo:
+
+Factura de Venta 9000081 por un total de 119,000, estado "pendiente" de contabilizar, cuando este documento se quiera contabilizar, el estado cambia a "contabilizado", y cuando un conjunto o lote de documentos se quieran contabilizar se puede cambiar el estado a "contabilizado_lote"
+
+En resumen:
+
+Columna nueva en todas las tablas que se vean afectadas para movimientos contables (asiento de contabilidad), cuyo valor por defecto es "pendiente" y hay varios estados que se pueden utilizar.
+
+pendiente = Cuando un documento se encuntra "pendiente" de ser contabilizado o a√n no ha sido contebilizado.
+
+contabilizado = Cuando un dodumento se encuentra ya "contabilizado" en el movimiento de contabilidad.
+
+contabilizado_lote = Cuando un conjunto (lote, varios, + de 1) de documentos han sido contabilizados, esto puede ocurrir cuando se quiera hacer s√lo 1 asiento contable x mes por ejemplo. (se toman en cuenta los documentos "pendientes" y el resumen de todos ellos (muchos) pasan a ser contabilizado_lote).
+
+Fin !
+
+
+
+

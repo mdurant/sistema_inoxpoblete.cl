@@ -1,0 +1,36 @@
+[04-Dec-2014 16:26:29 UTC] PHP Fatal error:  Call to undefined method select::proyetos() in /home/cne9836/public_html/inoxpoblete/area/OrdenTrabajo/orden_main.php on line 74
+[09-Dec-2014 23:20:24 UTC] PHP Fatal error:  Function name must be a string in /home/cne9836/public_html/inoxpoblete/area/OrdenTrabajo/select_orden.php on line 29
+[25-Jan-2015 21:13:44 America/Santiago] PHP Parse error:  syntax error, unexpected 'echo' (T_ECHO) in /home/cne9836/public_html/gestion/area/guiadespacho/insert_orden_sql.php on line 41
+[25-Jan-2015 21:14:42 America/Santiago] PHP Parse error:  syntax error, unexpected 'for' (T_FOR) in /home/cne9836/public_html/gestion/area/guiadespacho/insert_orden_sql.php on line 45
+[25-Jan-2015 21:15:42 America/Santiago] PHP Parse error:  syntax error, unexpected 'for' (T_FOR) in /home/cne9836/public_html/gestion/area/guiadespacho/insert_orden_sql.php on line 45
+[25-Jan-2015 21:20:17 America/Santiago] PHP Parse error:  syntax error, unexpected 'for' (T_FOR) in /home/cne9836/public_html/gestion/area/guiadespacho/insert_orden_sql.php on line 44
+[25-Jan-2015 21:22:46 Chile/Continental] PHP Fatal error:  Call to undefined function NOW() in /home/cne9836/public_html/gestion/area/guiadespacho/insert_orden_sql.php on line 22
+[25-Jan-2015 21:24:21 Chile/Continental] PHP Fatal error:  Call to undefined function NOW() in /home/cne9836/public_html/gestion/area/guiadespacho/insert_orden_sql.php on line 40
+[27-Jan-2015 21:21:21 America/Santiago] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/cne9836/public_html/gestion/area/guiacompra/ordensql_sql.php on line 79
+[27-Jan-2015 21:22:11 America/Santiago] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/cne9836/public_html/gestion/area/guiacompra/ordensql_sql.php on line 79
+[27-Jan-2015 21:22:39 America/Santiago] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/cne9836/public_html/gestion/area/guiacompra/ordensql_sql.php on line 79
+[27-Jan-2015 21:23:21 America/Santiago] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/cne9836/public_html/gestion/area/guiacompra/ordensql_sql.php on line 79
+[27-Jan-2015 21:25:54 America/Santiago] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/cne9836/public_html/gestion/area/guiacompra/ordensql_sql.php on line 79
+[27-Jan-2015 21:26:07 America/Santiago] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/cne9836/public_html/gestion/area/guiacompra/ordensql_sql.php on line 79
+[28-Jan-2015 00:17:26 America/Santiago] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/cne9836/public_html/gestion/area/guiacompra/ordensql_sql.php on line 79
+[28-Jan-2015 00:17:33 America/Santiago] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/cne9836/public_html/gestion/area/guiacompra/ordensql_sql.php on line 79
+[28-Jan-2015 00:19:21 America/Santiago] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/cne9836/public_html/gestion/area/guiacompra/ordensql_sql.php on line 45
+[28-Jan-2015 00:19:21 America/Santiago] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/cne9836/public_html/gestion/area/guiacompra/ordensql_sql.php on line 84
+[28-Jan-2015 00:19:30 America/Santiago] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/cne9836/public_html/gestion/area/guiacompra/ordensql_sql.php on line 45
+[28-Jan-2015 00:19:30 America/Santiago] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/cne9836/public_html/gestion/area/guiacompra/ordensql_sql.php on line 84
+[28-Jan-2015 00:19:42 America/Santiago] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/cne9836/public_html/gestion/area/guiacompra/ordensql_sql.php on line 45
+[28-Jan-2015 00:19:42 America/Santiago] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/cne9836/public_html/gestion/area/guiacompra/ordensql_sql.php on line 84
+[29-Jan-2015 20:26:27 America/Santiago] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/cne9836/public_html/gestion/area/guiacompra/ordensql_sql.php on line 45
+[29-Jan-2015 20:26:27 America/Santiago] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/cne9836/public_html/gestion/area/guiacompra/ordensql_sql.php on line 84
+[29-Jan-2015 22:01:02 America/Santiago] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/cne9836/public_html/gestion/area/guiacompra/ordensql_sql.php on line 45
+[29-Jan-2015 22:01:02 America/Santiago] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/cne9836/public_html/gestion/area/guiacompra/ordensql_sql.php on line 84
+[29-Jan-2015 22:02:19 America/Santiago] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/cne9836/public_html/gestion/area/guiacompra/ordensql_sql.php on line 45
+[29-Jan-2015 22:02:19 America/Santiago] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/cne9836/public_html/gestion/area/guiacompra/ordensql_sql.php on line 84
+[29-Jan-2015 22:04:30 America/Santiago] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/cne9836/public_html/gestion/area/guiacompra/ordensql_sql.php on line 44
+[29-Jan-2015 22:04:30 America/Santiago] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/cne9836/public_html/gestion/area/guiacompra/ordensql_sql.php on line 83
+[29-Jan-2015 22:04:54 America/Santiago] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/cne9836/public_html/gestion/area/guiacompra/ordensql_sql.php on line 44
+[29-Jan-2015 22:04:54 America/Santiago] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/cne9836/public_html/gestion/area/guiacompra/ordensql_sql.php on line 83
+[29-Jan-2015 22:05:01 America/Santiago] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/cne9836/public_html/gestion/area/guiacompra/ordensql_sql.php on line 44
+[29-Jan-2015 22:05:01 America/Santiago] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/cne9836/public_html/gestion/area/guiacompra/ordensql_sql.php on line 83
+[03-Mar-2015 14:44:41 America/Santiago] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/cne9836/public_html/gestion/area/guiacompra/select_guia_edit.php on line 326
+[03-Mar-2015 14:45:04 America/Santiago] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/cne9836/public_html/gestion/area/guiacompra/select_guia_edit.php on line 326

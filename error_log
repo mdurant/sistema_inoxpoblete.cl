@@ -1,0 +1,36 @@
+[31-Aug-2014 23:07:19 UTC] PHP Warning:  mysql_connect(): Access denied for user 'root'@'localhost' (using password: YES) in /home/cne9836/public_html/sistema/conexion/conexion.php on line 12
+[31-Aug-2014 23:08:33 UTC] PHP Warning:  mysql_real_escape_string(): Access denied for user 'root'@'localhost' (using password: NO) in /home/cne9836/public_html/sistema/login_.php on line 19
+[31-Aug-2014 23:08:33 UTC] PHP Warning:  mysql_real_escape_string(): A link to the server could not be established in /home/cne9836/public_html/sistema/login_.php on line 19
+[31-Aug-2014 23:08:33 UTC] PHP Warning:  mysql_real_escape_string(): Access denied for user 'root'@'localhost' (using password: NO) in /home/cne9836/public_html/sistema/login_.php on line 19
+[31-Aug-2014 23:08:33 UTC] PHP Warning:  mysql_real_escape_string(): A link to the server could not be established in /home/cne9836/public_html/sistema/login_.php on line 19
+[31-Aug-2014 23:08:33 UTC] PHP Warning:  mysql_real_escape_string(): Access denied for user 'root'@'localhost' (using password: NO) in /home/cne9836/public_html/sistema/login_.php on line 19
+[31-Aug-2014 23:08:33 UTC] PHP Warning:  mysql_real_escape_string(): A link to the server could not be established in /home/cne9836/public_html/sistema/login_.php on line 19
+[31-Aug-2014 23:08:33 UTC] PHP Warning:  mysql_real_escape_string(): Access denied for user 'root'@'localhost' (using password: NO) in /home/cne9836/public_html/sistema/login_.php on line 19
+[31-Aug-2014 23:08:33 UTC] PHP Warning:  mysql_real_escape_string(): A link to the server could not be established in /home/cne9836/public_html/sistema/login_.php on line 19
+[31-Aug-2014 23:08:33 UTC] PHP Warning:  mysql_real_escape_string(): Access denied for user 'root'@'localhost' (using password: NO) in /home/cne9836/public_html/sistema/login_.php on line 19
+[31-Aug-2014 23:08:33 UTC] PHP Warning:  mysql_real_escape_string(): A link to the server could not be established in /home/cne9836/public_html/sistema/login_.php on line 19
+[31-Aug-2014 23:08:33 UTC] PHP Warning:  mysql_real_escape_string(): Access denied for user 'root'@'localhost' (using password: NO) in /home/cne9836/public_html/sistema/login_.php on line 19
+[31-Aug-2014 23:08:33 UTC] PHP Warning:  mysql_real_escape_string(): A link to the server could not be established in /home/cne9836/public_html/sistema/login_.php on line 19
+[31-Aug-2014 23:08:33 UTC] PHP Warning:  mysql_real_escape_string(): Access denied for user 'root'@'localhost' (using password: NO) in /home/cne9836/public_html/sistema/login_.php on line 19
+[31-Aug-2014 23:08:33 UTC] PHP Warning:  mysql_real_escape_string(): A link to the server could not be established in /home/cne9836/public_html/sistema/login_.php on line 19
+[31-Aug-2014 23:08:33 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/cne9836/public_html/sistema/login_.php:19) in /home/cne9836/public_html/sistema/login_.php on line 50
+[31-Aug-2014 23:16:38 UTC] PHP Warning:  mysql_real_escape_string() expects parameter 2 to be resource, string given in /home/cne9836/public_html/sistema/login_.php on line 19
+[31-Aug-2014 23:16:38 UTC] PHP Warning:  mysql_real_escape_string() expects parameter 2 to be resource, string given in /home/cne9836/public_html/sistema/login_.php on line 19
+[31-Aug-2014 23:16:38 UTC] PHP Warning:  mysql_real_escape_string() expects parameter 2 to be resource, string given in /home/cne9836/public_html/sistema/login_.php on line 19
+[31-Aug-2014 23:16:38 UTC] PHP Warning:  mysql_real_escape_string() expects parameter 2 to be resource, string given in /home/cne9836/public_html/sistema/login_.php on line 19
+[31-Aug-2014 23:16:38 UTC] PHP Warning:  mysql_real_escape_string() expects parameter 2 to be resource, string given in /home/cne9836/public_html/sistema/login_.php on line 19
+[31-Aug-2014 23:16:38 UTC] PHP Warning:  mysql_real_escape_string() expects parameter 2 to be resource, string given in /home/cne9836/public_html/sistema/login_.php on line 19
+[31-Aug-2014 23:16:38 UTC] PHP Warning:  mysql_real_escape_string() expects parameter 2 to be resource, string given in /home/cne9836/public_html/sistema/login_.php on line 19
+[31-Aug-2014 23:16:38 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/cne9836/public_html/sistema/login_.php:19) in /home/cne9836/public_html/sistema/login_.php on line 50
+[31-Aug-2014 23:18:33 UTC] PHP Warning:  mysql_real_escape_string() expects parameter 1 to be string, resource given in /home/cne9836/public_html/sistema/login_.php on line 19
+[31-Aug-2014 23:18:33 UTC] PHP Warning:  mysql_real_escape_string() expects parameter 1 to be string, resource given in /home/cne9836/public_html/sistema/login_.php on line 19
+[31-Aug-2014 23:18:33 UTC] PHP Warning:  mysql_real_escape_string() expects parameter 1 to be string, resource given in /home/cne9836/public_html/sistema/login_.php on line 19
+[31-Aug-2014 23:18:33 UTC] PHP Warning:  mysql_real_escape_string() expects parameter 1 to be string, resource given in /home/cne9836/public_html/sistema/login_.php on line 19
+[31-Aug-2014 23:18:33 UTC] PHP Warning:  mysql_real_escape_string() expects parameter 1 to be string, resource given in /home/cne9836/public_html/sistema/login_.php on line 19
+[31-Aug-2014 23:18:33 UTC] PHP Warning:  mysql_real_escape_string() expects parameter 1 to be string, resource given in /home/cne9836/public_html/sistema/login_.php on line 19
+[31-Aug-2014 23:18:33 UTC] PHP Warning:  mysql_real_escape_string() expects parameter 1 to be string, resource given in /home/cne9836/public_html/sistema/login_.php on line 19
+[31-Aug-2014 23:18:33 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/cne9836/public_html/sistema/login_.php:19) in /home/cne9836/public_html/sistema/login_.php on line 50
+[23-Oct-2014 01:58:02 UTC] PHP Parse error:  syntax error, unexpected 'exit' (T_EXIT), expecting ',' or ';' in /home/cne9836/public_html/sistema/validatesession_html.php on line 10
+[23-Oct-2014 01:58:39 UTC] PHP Parse error:  syntax error, unexpected 'echo' (T_ECHO), expecting ',' or ';' in /home/cne9836/public_html/sistema/validatesession_html.php on line 9
+[23-Oct-2014 01:58:41 UTC] PHP Parse error:  syntax error, unexpected 'echo' (T_ECHO), expecting ',' or ';' in /home/cne9836/public_html/sistema/validatesession_html.php on line 9
+[23-Oct-2014 01:58:43 UTC] PHP Parse error:  syntax error, unexpected 'echo' (T_ECHO), expecting ',' or ';' in /home/cne9836/public_html/sistema/validatesession_html.php on line 9

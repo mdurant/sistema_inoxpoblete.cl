@@ -1,0 +1,8 @@
+PARA BUSCAR TEXTOS EN ARCHIVOS
+
+find . -name "*sql.php" | xargs grep -il 'texto a buscar'
+
+
+PARA BUSCAR Y REEMPLAZAR EN ARCHIVOS
+
+find . -name "*sql.php" -exec sed -i "s/auth.php/validatesession_json.php/g" {} \;
